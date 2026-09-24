@@ -1,4 +1,6 @@
 # 🎓 Student Performance Analyzer
+# LIVE SITE :- http://127.0.0.1:5000
+
 
 A beginner-friendly web-based application built using Python, Flask, Pandas, SQL, and SQLite to analyze and visualize student academic performance.
 
