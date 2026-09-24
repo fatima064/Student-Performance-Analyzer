@@ -83,7 +83,7 @@ Students with an average score of 40 or above can be identified using a SQL filt
 ### 📈 Performance Visualization
 
 A bar chart displays the average marks of each student using Chart.js.
-[Screenshot 2026-09-24 131737.png]
+![Graph][Screenshot 2026-09-24 131737.png]
 
 ---
 
